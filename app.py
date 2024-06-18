@@ -55,7 +55,7 @@ def input_image_setup(uploaded_file):
 
 # Set Streamlit page configuration with a title
 
-st.set_page_config(page_title="Calories Calculator App", layout="centered", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Calories Calculator App", layout="centered", page_icon="favicon.ico", initial_sidebar_state="expanded")
 
 
 # Custom CSS styles for the app
