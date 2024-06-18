@@ -1,0 +1,17 @@
+.env
+# Ignore menv directory
+myenv/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
