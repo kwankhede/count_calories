@@ -1,5 +1,7 @@
 
 # Calories Calculator App
+https://count-caloriess.streamlit.app/
+
 
 ![Calories Calculator App](app.png)
 
@@ -13,6 +15,8 @@ The Calories Calculator App is a streamlined tool powered by Google Generative A
 - **Prompt Input:** Input a prompt specifying the details required from the AI model.
 - **AI Analysis:** Utilizes Google Generative AI to identify food items and calculate their total calories based on the image and input prompt.
 - **Interactive Interface:** Simple and intuitive UI designed using Streamlit, with clear instructions and feedback messages.
+
+https://count-caloriess.streamlit.app/ 
 
 ## Getting Started
 
